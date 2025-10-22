@@ -1,0 +1,3 @@
+# Agregamos las dependencias que necesitamos
+numpy==1.24.4
+pandas==2.0.3
