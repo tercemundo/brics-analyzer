@@ -4,6 +4,8 @@ Este proyecto demuestra el uso de **GitHub Actions** para automatizar workflows 
 
 ## 📊 ¿Qué hace?
 
+Demo de un programa de ciencia de datos.... 
+
 Analiza datos de países BRICS (Brasil, Rusia, India, China, Sudáfrica) usando:
 - **Python 3.9**
 - **Pandas** para análisis de datos
